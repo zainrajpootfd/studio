@@ -7,7 +7,7 @@ function AppLayout() {
     <div>
       <Header />
 
-      <main className="px-8">
+      <main className="px-8 xl:px-20 md:px-10">
         <Outlet />
       </main>
     </div>

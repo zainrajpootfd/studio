@@ -9,7 +9,10 @@ function Header() {
   const toggleHandler = () => setIsMenuOpen(!isMenuOpen);
   const closeMenu = () => setIsMenuOpen(false);
   return (
-    <div className=" flex flex-col gap-4 md:flex-row  text-xs md:text-[0.8rem] md:items-center lg:text-base xl:text-xl lg:font-medium justify-between px-[2rem] md:px-[4rem] py-[3rem]">
+    <div
+      className="  xl:px-24  flex flex-col gap-4 md:flex-row  text-xs
+     md:text-[0.8rem] md:items-center lg:text-base xl:text-xl lg:font-medium justify-between px-[2rem] md:px-16 py-[3rem]"
+    >
       <div className="flex flex-row justify-between items-center ">
         <Logo />
         <button

@@ -5,7 +5,7 @@ function Navbar({ isMenuOpen, closeMenu }) {
     <nav
       className={`${
         isMenuOpen ? "flex font-semibold" : "hidden"
-      } flex-col gap-6 md:flex md:flex-row justify-between cursor-pointer`}
+      } flex-col gap-6 md:flex md:flex-row xl:gap-16 md:gap-6 justify-between cursor-pointer`}
     >
       <NavLink to="/" onClick={closeMenu}>
         Home
