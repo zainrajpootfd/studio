@@ -20,7 +20,7 @@ function Services() {
         <p
           className="px-6 xl:mt-6 xl:w-[24rem] xl:text-sm xl:font-light 
         lg:mt-16 lg:w-[22rem] lg:text-sm lg:font-light
-        md:mt-16 md:font-light md:mb-3 text-xs mt-12 font-extralight"
+        md:mt-16 md:font-light md:mb-3 text-xs mt-16 font-extralight"
         >
           We build readymade websites, mobile applications, and elaborate online
           business services.
