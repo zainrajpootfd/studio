@@ -14,7 +14,7 @@ function AgencyIntro() {
           <br />
           Agency since 2016
         </h2>
-        <p className="xl:font-extralight xl:w-[32rem] md:font-extralight md:w-[32rem] font-extralight text-xs">
+        <p className="xl:font-extralight leading-5  xl:w-[32rem] md:font-extralight md:w-[32rem] font-extralight text-xs">
           Our Business Plan is a written document describing a company's core
           business activites, Objectives, and how it plans to achieve its goals.
           Our goal is to provide our client high quality Product with modern
