@@ -8,7 +8,7 @@ function Home() {
         <h1 className="font-semibold text-xl md:text-[1.2rem] md:font-extrabold mb-4 xl:text-4xl xl:pb-10">
           A Digital Product Agency
         </h1>
-        <p className="text-justify leading-8 font-extralight tracking-wide mb-4 w-full md:w-72 xl:w-96 xl:mb-10 xl:text-lg xl:font-thin md:tracking-normal md:leading-7 md:text-sm">
+        <p className="text-justify leading-6 font-extralight tracking-normal mb-4 w-full md:w-72 xl:w-96 xl:mb-10 xl:text-lg xl:font-thin md:tracking-normal md:leading-7 md:text-sm">
           Leading digital agency with solid design and development expertise. We
           build readymade websites, mobile applications, and elaborate online
           business services.
