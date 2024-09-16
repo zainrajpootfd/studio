@@ -61,8 +61,7 @@ function Testimonials() {
   const goToSlide = (index) => {
     setCurrentIndex(index);
   };
-  // rounded-br-full
-  // rounded-l-full
+
   return (
     <div
       className="grid lg:grid-cols-3 gap-16  w-32 md:w-full items-center md:grid-cols-2
@@ -73,7 +72,7 @@ function Testimonials() {
           src={Slides[currentIndex].img}
           alt=""
           className="  w-36 h-36 md:w-56 md:h-56 rounded-br-full
-        md:ml-2 ml-12 rounded-l-full object-fill object-center  overflow-hidden "
+        md:ml-2 ml-12 rounded-l-full    "
         />
       </div>
       <div className="w-64 h-42">
