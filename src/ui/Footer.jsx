@@ -85,7 +85,7 @@ function Footer() {
             <h3 className="font-extrabold xl:text-lg md:text-base text-sm">
               What We Do
             </h3>
-            <div className="flex flex-col gap-5 md:text-base text-sm">
+            <div className="flex flex-col gap-5 md:text-base text-sm cursor-pointer">
               <Link>Web Design</Link>
               <Link>App Design</Link>
               <Link>Social Media Manage</Link>
@@ -96,7 +96,7 @@ function Footer() {
             <h3 className="font-extrabold xl:text-lg md:text-base text-sm">
               Company
             </h3>
-            <div className="flex flex-col gap-5 md:text-base text-sm">
+            <div className="flex flex-col gap-5 md:text-base text-sm cursor-pointer">
               <Link>About Us</Link>
               <Link>Careers</Link>
               <Link>Become Investor</Link>
@@ -106,7 +106,7 @@ function Footer() {
             <h3 className="font-extrabold xl:text-lg md:text-base text-sm">
               Support
             </h3>
-            <div className="flex flex-col gap-5 md:text-base text-sm">
+            <div className="flex flex-col gap-5 md:text-base text-sm cursor-pointer">
               <Link>FAQ</Link>
               <Link>Policy</Link>
               <Link>Business</Link>
@@ -116,7 +116,7 @@ function Footer() {
             <h3 className="font-extrabold xl:text-lg md:text-base text-sm">
               Contact
             </h3>
-            <div className="flex flex-col gap-5">
+            <div className="flex flex-col gap-5 cursor-pointer">
               <Link>WhatsApp</Link>
               <Link>Support 24</Link>
             </div>
