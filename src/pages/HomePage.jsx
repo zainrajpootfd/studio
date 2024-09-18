@@ -16,7 +16,7 @@ function HomePage() {
       <AgencyIntro />
       <HappyClients />
       <Testimonials />
-      {/* <NewsLetter /> */}
+      <NewsLetter />
     </>
   );
 }
